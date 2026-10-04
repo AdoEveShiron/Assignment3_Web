@@ -1,7 +1,7 @@
 # Assignment 3 - Responsive Web Design (Media Queries + Bootstrap Grid)
 
-**Name:** _your name_
-**Group:** _your group_
+**Name:** Dinmukhammed Dauletkhan
+**Group:** SE-2538
 
 ## Part 1. Media Queries
 
