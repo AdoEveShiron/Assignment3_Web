@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.container {
+  padding: 15px;
+}
+
+/* mobile */
+h1 { font-size: 24px; margin-bottom: 10px; }
+h2 { font-size: 18px; margin: 15px 0 5px; }
+p  { font-size: 14px; }
+
+/* tablet */
+@media (min-width: 768px) {
+  .container { padding: 30px; }
+  h1 { font-size: 36px; }
+  h2 { font-size: 26px; }
+  p  { font-size: 18px; }
+}
+
+/* desktop */
+@media (min-width: 1024px) {
+  .container { padding: 50px; }
+  h1 { font-size: 48px; }
+  h2 { font-size: 32px; }
+  p  { font-size: 22px; }
+}
