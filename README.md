@@ -88,3 +88,5 @@ Mobile (menu opened):
 
 ## Summary
 I did the first two tasks with plain CSS media queries using a mobile-first approach: default styles are for mobile and `min-width` queries change them for tablet and desktop. Then I used the Bootstrap 12-column grid with responsive classes (`col-12`, `col-md-6`, `col-lg-4`) to get the same behavior with less code, and built a responsive navbar with the collapse component. In the last task I combined both: Bootstrap grid and navbar for the structure, and custom media queries for font sizes, spacing and hiding elements on small screens.
+
+Link: https://adoeveshiron.github.io/Assignment3_Web
